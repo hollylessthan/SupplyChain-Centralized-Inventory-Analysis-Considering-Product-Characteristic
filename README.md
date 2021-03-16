@@ -1,1 +1,2 @@
-# SupplyChain-Centralized-Inventory-and-Demand-Analysis
+# SupplyChain-Centralized-Inventory-Analysis-Considering-Product-Characteristic
+
